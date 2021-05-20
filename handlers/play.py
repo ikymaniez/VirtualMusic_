@@ -505,12 +505,12 @@ async def play(_, message: Message):
                 [
                                
                     InlineKeyboardButton('📖 Daftar Putar', callback_data='playlist'),
-                    InlineKeyboardButton("⛑ Group Support", url="https://t.me/SharingUserbot")
+                    InlineKeyboardButton("👥 Group Support", url="https://t.me/Familythunder")
                 
                 ],                     
                 [
                     InlineKeyboardButton(
-                        "Owner Music Man", url="https://instagram.com/mrismanaziz_"
+                        "Owner Music", url="https://t.me/boyfriendnice"
                     )
                 ],
                 [       
@@ -574,7 +574,7 @@ async def deezer(client: Client, message_: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name =  "MusicMan"
+        user.first_name =  "VirtualMusic"
     usar = user
     wew = usar.id
     try:
@@ -640,12 +640,12 @@ async def deezer(client: Client, message_: Message):
                 [
                                
                     InlineKeyboardButton('📖 Daftar Putar', callback_data='playlist'),
-                    InlineKeyboardButton("⛑ Group Support", url="https://t.me/SharingUserbot")
+                    InlineKeyboardButton("👥 Group Support", url="https://t.me/Familythunder")
                 
                 ],                     
                 [
                     InlineKeyboardButton(
-                        "Owner Music Man", url="https://instagram.com/mrismanaziz_"
+                        "Owner Music", url="https://t.me/boyfriendnice"
                     )
                 ],
                 [       
@@ -706,7 +706,7 @@ async def jiosaavn(client: Client, message_: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name =  "MusicMan"
+        user.first_name =  "VirtualMusic"
     usar = user
     wew = usar.id
     try:
@@ -776,12 +776,12 @@ async def jiosaavn(client: Client, message_: Message):
                 [
                                
                     InlineKeyboardButton('📖 Daftar Putar', callback_data='playlist'),
-                    InlineKeyboardButton("⛑ Group Support", url="https://t.me/SharingUserbot")
+                    InlineKeyboardButton("👥 Group Support", url="https://t.me/Familythunder")
                 
                 ],                     
                 [
                     InlineKeyboardButton(
-                        "Owner Music Man", url="https://instagram.com/mrismanaziz_"
+                        "Owner Music", url="https://t.me/boyfriendnice"
                     )
                 ],
                 [       
