@@ -48,7 +48,7 @@
 
 ### Generate String Session
 
-Gabung Ke [Grup Support](https://t.me/sharinguserbot) Man-UserBot Lalu Ketik #string [TEKAN DISINI](https://t.me/sharinguserbot) Untuk Masuk Ke [Grup Support](https://t.me/sharinguserbot)
+Gabung Ke [Grup Support](https://t.me/Familythunder) Man-UserBot Lalu Ketik #string [TEKAN DISINI](https://t.me/sharinguserbot) Untuk Masuk Ke [Channel Support](https://t.me/MusikManagement)
 
 ### Credits
 - [Risman](https://github.com/mrismanaziz)
