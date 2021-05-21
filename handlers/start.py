@@ -27,8 +27,8 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>🖐️ Haii.. {message.from_user.first_name} Welcome To 𝗩𝗜𝗥𝗧𝗨𝗔𝗟 𝗠𝗨𝗦𝗜𝗖\n
-Saya Bot Music Group, Yang dapat Memutar Lagu di Voice Chat Group Dengan cara yang Mudah
-Saya Memiliki Banyak Fitur Praktis Seperti :
+Aku Adalah Bot Music Telegram Yang Akan Menemani mu Di Voice Call Group.
+Jika Ingin Menggunakan Invite Aku Dan Asisstantnya Ke Dalam Group Lalu Angkat Bot Menjadi Admin. Jika Ada Kendala Bisa Chat Pemilik Nya.
 ┏━━━━━━━━━━━━━━
 ┣• Memutar Musik.
 ┣• Mendownload Lagu.
